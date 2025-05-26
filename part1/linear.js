@@ -1,7 +1,7 @@
 // file: linear.js
 // Desc: This file shows how linear search works
 // Author: Amina
-// last modified: 16/05/2025
+// last modified: 26/05/2025
 // Version: 1.0.0
 
 // create the array to search
@@ -10,7 +10,7 @@ console.log(searchArray);
 
 // set the value of we are searching for
 let myKey = 81;
-console.log(`key: ${key}`);
+console.log(`key: ${myKey}`);
 
 // create the search function
 /**

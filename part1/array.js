@@ -1,7 +1,7 @@
 // file: array.js
 // desc: This file shows how arrays work in js
 // Author: Amina Aar
-// Last modified: 20/05/2025
+// Last modified: 26/05/2025
 // version 1.0.0
 
 // create an array of numbers

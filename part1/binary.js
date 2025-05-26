@@ -1,7 +1,7 @@
 // file: binary.js
 // desc: This file shows how binary search works.
 // Author: Amina Aar
-// Last modified: 16/05/2025
+// Last modified: 26/05/2025
 // version 1.0.0
 
 // Create an array to search
@@ -9,18 +9,9 @@ const sortedArray = [2, 5, 8, 12, 16, 23, 38, 56, 72, 91];
 console.log(sortedArray);
 
 // set the value we are searching for:
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
 const key = 83;
-// console.log(`key: ${key}`);
-=======
-const key = 23;
 console.log(`key: ${key}`);
->>>>>>> Stashed changes
-=======
-const key = 23;
-console.log(`key: ${key}`);
->>>>>>> Stashed changes
 
 //Create the binarySearch function
 /**

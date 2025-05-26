@@ -18,3 +18,19 @@ console.log(myArray);
 // Adding 3 numbers at the end of array
 myArray.push(19, 23, 30);
 console.log(myArray);
+
+// sorting the array after pushing 3 numbers
+myArray.sort(function (a, b) {
+  return a - b;
+});
+console.log(myArray);
+
+// remove 2 numbers from array
+const updatedArray = myArray.filter((num) => num != 8 && num != 31);
+// console.log(updatedArray);
+
+// sort the updatedArray
+updatedArray.sort(function (a, b) {
+  return a - b;
+});
+console.log(updatedArray);

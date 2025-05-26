@@ -1,7 +1,7 @@
 // file: movie.js
 // desc: This file shows how objects work in js
 // Author: Amina Aar
-// Last modified: 20/05/2025
+// Last modified: 26/05/2025
 // version 1.0.0
 
 // creating  myMovie object

@@ -10,8 +10,13 @@ console.log(sortedArray);
 
 // set the value we are searching for:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 const key = 83;
 // console.log(`key: ${key}`);
+=======
+const key = 23;
+console.log(`key: ${key}`);
+>>>>>>> Stashed changes
 =======
 const key = 23;
 console.log(`key: ${key}`);

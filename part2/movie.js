@@ -17,3 +17,10 @@ myMovie.rating = 5;
 myMovie.summary = "World War II movie about the Normandy landings";
 // output myMovie object after adding 2 properties
 console.log(myMovie);
+
+// changing property value of myMovie object
+myMovie.rating = 4;
+myMovie.year = 1962;
+
+// output myMovie object after changing property data
+console.log(myMovie);

@@ -11,3 +11,9 @@ const myMovie = {
 };
 // output myMovie object
 console.log(myMovie);
+
+// Adding in propeties to myMovie object
+myMovie.rating = 5;
+myMovie.summary = "World War II movie about the Normandy landings";
+// output myMovie object after adding 2 properties
+console.log(myMovie);

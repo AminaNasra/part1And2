@@ -6,11 +6,16 @@
 
 // Create an array to search
 const sortedArray = [2, 5, 8, 12, 16, 23, 38, 56, 72, 91];
-// console.log(sortedArray);
+console.log(sortedArray);
 
 // set the value we are searching for:
+<<<<<<< Updated upstream
 const key = 83;
 // console.log(`key: ${key}`);
+=======
+const key = 23;
+console.log(`key: ${key}`);
+>>>>>>> Stashed changes
 
 //Create the binarySearch function
 /**

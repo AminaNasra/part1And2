@@ -14,3 +14,7 @@ myArray.sort(function (a, b) {
   return a - b;
 });
 console.log(myArray);
+
+// Adding 3 numbers at the end of array
+myArray.push(19, 23, 30);
+console.log(myArray);

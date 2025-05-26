@@ -27,7 +27,7 @@ console.log(myArray);
 
 // remove 2 numbers from array
 const updatedArray = myArray.filter((num) => num != 8 && num != 31);
-// console.log(updatedArray);
+console.log(updatedArray);
 
 // sort the updatedArray
 updatedArray.sort(function (a, b) {

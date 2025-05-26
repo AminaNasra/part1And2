@@ -24,3 +24,8 @@ myMovie.year = 1962;
 
 // output myMovie object after changing property data
 console.log(myMovie);
+
+// removing property from myMOvie object
+delete myMovie.summary;
+//ouput myMovie object to console
+console.log(myMovie);
